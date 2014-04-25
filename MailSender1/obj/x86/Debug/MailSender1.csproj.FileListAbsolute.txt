@@ -1,0 +1,51 @@
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\bin\Debug\MailSender1.exe
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\bin\Debug\MailSender1.pdb
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\MainWindow.baml
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\App.g.cs
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\MailSender1_MarkupCompile.cache
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\MailSender1.g.resources
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\MailSender1.Properties.Resources.resources
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\MailSender1.exe
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Debug\MailSender1.pdb
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\MailSender1.exe
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\MailSender1.pdb
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\bin\Debug\MailSender1.exe
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\bin\Debug\MailSender1.pdb
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\MainWindow.baml
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\App.g.cs
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\MailSender1_MarkupCompile.cache
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\MailSender1.g.resources
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\MailSender1.Properties.Resources.resources
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Debug\MailSender1.exe
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Debug\MailSender1.pdb
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\bin\Debug\MailSender1.exe
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\bin\Debug\MailSender1.pdb
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Debug\MainWindow.baml
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Debug\App.g.cs
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Debug\MailSender1_MarkupCompile.cache
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Debug\MailSender1.g.resources
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Debug\MailSender1.Properties.Resources.resources
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Debug\MailSender1.csproj.GenerateResource.Cache
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\obj\x86\Debug\MailSender1.exe
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\obj\x86\Debug\MailSender1.pdb
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\bin\Debug\MailSender1.exe
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\bin\Debug\MailSender1.pdb
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\obj\x86\Debug\MailSender1.csprojResolveAssemblyReference.cache
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\obj\x86\Debug\MainWindow.baml
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\obj\x86\Debug\App.g.cs
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\obj\x86\Debug\MailSender1_MarkupCompile.cache
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\obj\x86\Debug\MailSender1.g.resources
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\obj\x86\Debug\MailSender1.Properties.Resources.resources
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\obj\x86\Debug\MailSender1.csproj.GenerateResource.Cache
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\bin\Debug\Mail.dll
+C:\Users\Lee\Documents\Visual Studio 2013\Samples\Mail Sender v21\MailSender1\bin\Debug\Mail.xml

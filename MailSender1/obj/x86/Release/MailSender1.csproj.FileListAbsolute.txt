@@ -1,0 +1,37 @@
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\bin\Release\MailSender1.exe
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\bin\Release\MailSender1.pdb
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\MainWindow.baml
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\App.g.cs
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\MailSender1_MarkupCompile.cache
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\MailSender1.g.resources
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\MailSender1.Properties.Resources.resources
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\MailSender1.exe
+C:\Users\Houssem\AppData\Local\Temporary Projects\MailSender1\obj\x86\Release\MailSender1.pdb
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\bin\Release\MailSender1.exe
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\bin\Release\MailSender1.pdb
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\MainWindow.baml
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\App.g.cs
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\MailSender1_MarkupCompile.cache
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\MailSender1.g.resources
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\MailSender1.Properties.Resources.resources
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\MailSender1.exe
+C:\Users\Houssem\documents\visual studio 2010\Projects\MailSender1\MailSender1\obj\x86\Release\MailSender1.pdb
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\bin\Release\MailSender1.exe
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\bin\Release\MailSender1.pdb
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Release\MainWindow.baml
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Release\MainWindow.g.cs
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Release\App.g.cs
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Release\MailSender1_MarkupCompile.cache
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Release\MailSender1.g.resources
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Release\MailSender1.Properties.Resources.resources
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Release\MailSender1.csproj.GenerateResource.Cache
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Release\MailSender1.exe
+C:\Users\Houssem\Downloads\Mail Sender v1.0\C#\MailSender1\obj\x86\Release\MailSender1.pdb

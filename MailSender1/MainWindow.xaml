@@ -1,0 +1,29 @@
+﻿<Window x:Class="MailSender1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MailClinet" WindowStartupLocation="CenterScreen" WindowStyle="SingleBorderWindow" mc:Ignorable="d" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" d:DesignHeight="447" d:DesignWidth="693" SizeToContent="WidthAndHeight" ResizeMode="CanMinimize" Icon="/MailSender1;component/Images/icon.png">
+    <Grid Height="415" Margin="0,2,0,1" HorizontalAlignment="Left" Width="683">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="White" Offset="0" />
+                <GradientStop Color="#FF5D45BA" Offset="1" />
+            </LinearGradientBrush>
+        </Grid.Background>
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="53,51,0,0" Name="textBlock1" Text="My Email" VerticalAlignment="Top" Width="78" />
+        <TextBox Name="mailFrom" Height="23" HorizontalAlignment="Left" Margin="137,48,0,0" VerticalAlignment="Top" Width="210" Text="lrank@sjtu.edu.cn" Background="#FF99A5E5" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="53,86,0,0" Name="textBlock2" Text="My Password" VerticalAlignment="Top" Width="78" />
+        <PasswordBox Name="passwd" Height="23" HorizontalAlignment="Left" Margin="137,86,0,0" VerticalAlignment="Top" Width="210" Password="" Background="#FF99A5E5" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="53,127,0,0" Name="textBlock3" Text="Mail To" VerticalAlignment="Top" Width="78" />
+        <TextBox Name="mailTo" Height="23" HorizontalAlignment="Left" Margin="137,124,0,0" Text="f.w.lrank@gmail.com" VerticalAlignment="Top" Width="210" Background="#FF99A5E5" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="53,165,0,0" Name="textBlock4" Text="Mail Subject" VerticalAlignment="Top" Width="78" />
+        <TextBox Name="mailSubject" Height="23" Margin="137,162,0,0" Text="" VerticalAlignment="Top" Background="#FF99A5E5" HorizontalAlignment="Left" Width="210" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="53,200,0,0" Name="textBlock5" Text="Mail Body" VerticalAlignment="Top" Width="78" />
+        <RichTextBox Name="mailBody" Height="129" HorizontalAlignment="Left" Margin="137,200,0,0" VerticalAlignment="Top" Width="210" Background="#FF99A5E5" />
+        <TextBlock Height="23" HorizontalAlignment="Left" Margin="158,9,0,0" Name="textBlock6" Text="Send Email" VerticalAlignment="Top" Width="120" FontSize="20" />
+        <Button Content="Send" Height="23" HorizontalAlignment="Left" Margin="261,359,0,0" Name="button1" VerticalAlignment="Top" Width="86" BorderThickness="2" BorderBrush="Green" MouseEnter="mouseEnterEvent" MouseLeave="mouseLeaveEvent" Click="sendButtonClick" Background="#FF9883D1" />
+        <Button Content="Cancel" Height="23" HorizontalAlignment="Left" Margin="158,359,0,0" Name="button2" VerticalAlignment="Top" Width="86" BorderThickness="2" BorderBrush="Red" MouseEnter="mouseEnterEvent" MouseLeave="mouseLeaveEvent" Click="cancelButtonClick" Background="#FF9883D1" />
+        <Button Content="Receive" Height="23" HorizontalAlignment="Left" Margin="53,359,0,0" Name="button3" VerticalAlignment="Top" Width="86" BorderThickness="2" BorderBrush="Blue" MouseEnter="mouseEnterEvent" MouseLeave="mouseLeaveEvent" Click="receiveButtonClick" Background="#FF9883D1" />
+        <TextBox Name ="receivetext" HorizontalAlignment="Left" Height="331" Margin="373,51,0,0" TextWrapping="Wrap" Text="Received mail here!" VerticalAlignment="Top" Width="300"/>
+        <TextBlock HorizontalAlignment="Left" Margin="443,10,0,0" TextWrapping="Wrap" Text="Receive Mail" VerticalAlignment="Top" RenderTransformOrigin="0.5,1.125" Height="23" Width="118" FontSize="20"/>
+    </Grid>
+</Window>

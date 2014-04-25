@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailSender1", "MailSender1\MailSender1.csproj", "{6BC613F4-D22C-4E5F-A67D-0419EB4969AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AB19CC7D-C550-4583-A43A-DE20CBAAE9B4}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\12.0\EXTENSIONS\3KE34OJ2.JB2\description.html = ..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\12.0\EXTENSIONS\3KE34OJ2.JB2\description.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BC613F4-D22C-4E5F-A67D-0419EB4969AF}.Debug|x86.ActiveCfg = Debug|x86
+		{6BC613F4-D22C-4E5F-A67D-0419EB4969AF}.Debug|x86.Build.0 = Debug|x86
+		{6BC613F4-D22C-4E5F-A67D-0419EB4969AF}.Release|x86.ActiveCfg = Release|x86
+		{6BC613F4-D22C-4E5F-A67D-0419EB4969AF}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
